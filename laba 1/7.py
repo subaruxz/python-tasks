@@ -1,0 +1,6 @@
+name = input("Ваше имя? ")
+age = float(input('Ваша дата рождения?'))
+learning = input("Где вы учитесь?")
+print("Вас зовут",name)
+print('Вы родились' + str(age))
+print('Вы учитесь в',learning)
